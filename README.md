@@ -1,6 +1,6 @@
 # Jobs opened in the last 24 hours
 
-Updated **Nov 16, 2026, 22:47 UTC**. 179 roles that 64 companies first published on their own job boards (Greenhouse, Lever, Ashby) in the 24 hours before this update. Newest first.
+Updated **Nov 16, 2026, 22:49 UTC**. 179 roles that 64 companies first published on their own job boards (Greenhouse, Lever, Ashby) in the 24 hours before this update. Newest first.
 
 These come straight from each company's public board, often before the role shows up on LinkedIn or Indeed. The list refreshes every day. Star the repo to keep it handy.
 
